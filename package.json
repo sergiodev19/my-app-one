@@ -1,0 +1,23 @@
+{
+  "name": "my-app-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiodev19/my-app-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiodev19/my-app-one/issues"
+  },
+  "homepage": "https://github.com/sergiodev19/my-app-one#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
